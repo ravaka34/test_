@@ -22,3 +22,4 @@ rehefa te commit dia mila add ireo changes ao staging area
 
     git add nomFile (add staging area)
     git status (mijery ireo commit sy staging area)
+    git merge master (merge an ilay branche)
