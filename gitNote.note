@@ -20,5 +20,19 @@ rehefa te commit dia mila add ireo changes ao staging area
     staging area ao no misy an ireo temporary file na change tia tsika 
     ho hita @ next commit
 
-    git add nomFile (add staging area)
+    git add nomFile (add unstage area)
     git status (mijery ireo commit sy staging area)
+
+    git commit -m "message descri kely"
+
+    git add . (add everything in unstage)
+
+    branches
+
+    create a new brache 
+        git checkout -b nomBranche (tonga dia switch branche)
+            (zay zavatra atao ao tsy mi affecte an ilay master branche)
+        git checkout master (miverina master branche)
+
+
+        dddd
