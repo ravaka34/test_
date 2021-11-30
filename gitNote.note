@@ -36,3 +36,12 @@ rehefa te commit dia mila add ireo changes ao staging area
 
 
         dddd
+    git merge master (merge an ilay branche)
+
+
+    sss
+
+git remote add origin https://github.com/ravaka34/test_.git (remote repository rehefa mampiasa
+origin dia ilay url zay ilay remote)
+
+git push -u origin main
