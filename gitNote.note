@@ -1,0 +1,24 @@
+github is just a git but with an ui
+
+                                    remote repositoriy
+
+                                dev1  dev2   
+
+NB
+
+    push mandefa ny zava bita antsika local mankany remote repositoriy
+    pull maka copie remote repositorie 
+    branche principale: branche misy an ireo version rehetra an ilay projet sy commit rehetra natao push
+    fa tokony miasa aho aloha raha toa ka mbola tsy mety ilay asa atao fa mila mamorona brance anao manoka dia 
+    update misy an ilay commit rehetra dia rehefa mety ilay branche zay vao atsofoka ao amin ny branche principale
+
+commit is kind of savePoint you can  rollback
+
+git init (initialise repository tsy maintsy atao io vao afaka mampiasa an ny github) 
+
+rehefa te commit dia mila add ireo changes ao staging area
+    staging area ao no misy an ireo temporary file na change tia tsika 
+    ho hita @ next commit
+
+    git add nomFile (add staging area)
+    git status (mijery ireo commit sy staging area)
