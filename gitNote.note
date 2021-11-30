@@ -44,4 +44,12 @@ rehefa te commit dia mila add ireo changes ao staging area
 git remote add origin https://github.com/ravaka34/test_.git (remote repository rehefa mampiasa
 origin dia ilay url zay ilay remote)
 
-git push -u origin main
+git push -u origin main (ou master) push commits rehetra anao mankao @ remote
+branche main
+-u save this setting izany hoe tsy mila miteny intsony ah hoe ao @ orin sy maintsy
+fa tonga dia git push fotsiny
+
+peronal token :  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
+git pull origin master pull
+
+ddd 
